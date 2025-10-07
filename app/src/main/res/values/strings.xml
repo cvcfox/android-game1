@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scribble Pals</string>
+    <string name="clear_canvas">Clear Canvas</string>
+    <string name="undo_stroke">Undo Stroke</string>
+    <string name="new_prompt">New Prompt</string>
+    <string name="drawing_mode">Drawing</string>
+    <string name="puzzle_mode">Puzzle</string>
+    <string name="brush_size">Brush Size</string>
+    <string name="prompt_title">Can you draw this?</string>
+</resources>
